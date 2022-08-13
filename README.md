@@ -1,5 +1,8 @@
+# Introduction
+This is a Final Year Project  implemented the facenet_pytorch repository developed by Tim Esler which provide pre-train NN and simplified the coding part for face detectiong and recognition.
+
 # Read Me
-1. Ensure all the library is installed, including  pytorh, opencv, facenet_pytorch, kivy, kivymd.
+1. Ensure all the library is installed and imported, including  pytorh, opencv, facenet_pytorch, kivy, kivymd.
 2. Run the application with cmd/terminal with "python main.py"
 3. Enjoy!
 
